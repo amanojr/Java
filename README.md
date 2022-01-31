@@ -1,2 +1,2 @@
 # VersionControl
-//first line oog code in browser
+//first line of code from browser
